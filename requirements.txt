@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+langchain~=0.3.1
+langchain-community~=0.3.1
+langchain-google-genai==2.0.0
+langgraph
+python-dotenv==1.0.1
+pydantic==2.9.2
+langsmith~=0.3.18
+wikipedia==1.4.0
